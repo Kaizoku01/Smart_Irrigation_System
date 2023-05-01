@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\COLLEGE\CODING\FLUTTER\irrigation_control_panel\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="D:\COLLEGE\CODING\FLUTTER\irrigation_control_panel\build\app"
+    bootClassPath="C:\Users\saxen\AppData\Local\Android\sdk\platforms\android-32\android.jar;C:\Users\saxen\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

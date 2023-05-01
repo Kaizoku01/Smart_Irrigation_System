@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370691773324",
+    "project_id": "irrigationcp-abaa6",
+    "storage_bucket": "irrigationcp-abaa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370691773324:android:d9eebaf9b05fc45d643ca9",
+        "android_client_info": {
+          "package_name": "com.example.irrigation_control_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370691773324-igkl3tu8g4aor5p749qpl3eeu518dsc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXcTMhD-0Tl4pbYN3SPvxSUfCTJAWJLcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370691773324-igkl3tu8g4aor5p749qpl3eeu518dsc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
